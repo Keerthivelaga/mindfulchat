@@ -1,0 +1,9 @@
+2026-04-28 16:30:04,591 | CRITICAL | ALERT CRISIS_EMERGENCY | User: k (ID:1) | Level: emergency | Contact: mom (9490483178)
+2026-04-28 16:30:05,138 | ERROR | Fast2SMS FAILED to 9490483178: You need to complete one transaction of 100 INR or more before using API route.
+2026-04-28 16:30:09,628 | CRITICAL | EMAIL SENT to keerthisrivelaga@gmail.com
+2026-04-28 16:39:01,620 | CRITICAL | ALERT CRISIS_EMERGENCY | User: k (ID:1) | Level: emergency | Contact: mom (9490483178)
+2026-04-28 16:39:02,114 | CRITICAL | SMS SENT via Fast2SMS to 9490483178
+2026-04-28 16:39:06,062 | CRITICAL | EMAIL SENT to keerthisrivelaga@gmail.com
+2026-04-28 16:41:28,241 | CRITICAL | ALERT CRISIS_EMERGENCY | User: k (ID:1) | Level: emergency | Contact: mom (8328194229)
+2026-04-28 16:41:28,588 | CRITICAL | SMS SENT via Fast2SMS to 8328194229
+2026-04-28 16:41:32,078 | CRITICAL | EMAIL SENT to keerthisrivelaga@gmail.com

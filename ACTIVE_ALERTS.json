@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": "2026-04-28T16:30:04.575378",
+    "user_id": 1,
+    "user_name": "k",
+    "alert_type": "CRISIS_EMERGENCY",
+    "distress_level": "emergency",
+    "detected_emotions": [],
+    "keywords_matched": [
+      "suicidal"
+    ],
+    "message_excerpt": "i am feeling suicidal",
+    "emergency_contact": {
+      "name": "mom",
+      "phone": "9490483178",
+      "email": "keerthisrivelaga@gmail.com"
+    },
+    "notifications": []
+  },
+  {
+    "timestamp": "2026-04-28T16:39:01.602345",
+    "user_id": 1,
+    "user_name": "k",
+    "alert_type": "CRISIS_EMERGENCY",
+    "distress_level": "emergency",
+    "detected_emotions": [],
+    "keywords_matched": [
+      "suicidal"
+    ],
+    "message_excerpt": "i am feeling suicidal",
+    "emergency_contact": {
+      "name": "mom",
+      "phone": "9490483178",
+      "email": "keerthisrivelaga@gmail.com"
+    },
+    "notifications": []
+  },
+  {
+    "timestamp": "2026-04-28T16:41:28.224797",
+    "user_id": 1,
+    "user_name": "k",
+    "alert_type": "CRISIS_EMERGENCY",
+    "distress_level": "emergency",
+    "detected_emotions": [],
+    "keywords_matched": [
+      "suicidal"
+    ],
+    "message_excerpt": "i am feeling suicidal",
+    "emergency_contact": {
+      "name": "mom",
+      "phone": "8328194229",
+      "email": "keerthisrivelaga@gmail.com"
+    },
+    "notifications": []
+  }
+]
